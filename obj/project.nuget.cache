@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A86KMd848Hk=",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\Cloud\\ASP.NET App\\aspnet-docker-master\\webapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91824\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
